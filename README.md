@@ -4,7 +4,7 @@ WeatherApp is a web application for weather check of any city around the globe.
 Employed JavaScript and Node.js frameworks to efficiently handle Asynchronous API calls
 ## Tech Stack
 
-**Frontend:** Bootstrapm, JavaScript
+**Frontend:** Bootstrap, JavaScript
 
 **Server:** Node JS, Express JS
 
